@@ -1,0 +1,14 @@
+.justifycenter
+{
+    display: flex;
+    justify-content: center;
+
+
+}
+.bold{
+  font-weight:bolder ;  
+}
+.upercase
+{
+    text-transform: uppercase;
+}

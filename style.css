@@ -1,0 +1,83 @@
+
+
+  @import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300&display=swap');
+html,body{
+    height: 100%;
+    width:100%;
+    margin: 0%;
+    padding: 0%;
+    font-family: 'Roboto', sans-serif;
+}
+
+header{
+    position: sticky;
+    top: 0;
+    background: white;
+    height: 66px;
+    box-shadow: rgba(99, 99, 99, 0.2) 0px 2px 8px 0px;
+}
+/* @media (max-width: 550px) {
+    header{
+        background: red ;
+    }
+} */
+.left img{
+    width: 30px;
+    height: 30px;
+}
+.section1
+{
+    background: white;
+}
+.container{
+   padding: 0 10vw;
+}
+nav{
+    padding-top: 12px;
+}
+nav ul li{
+    list-style: none;
+    padding: 0 10px;
+}
+.mx2
+{
+    margin-left: 12px;
+    margin-right: 12px;
+}
+.footer
+{
+    padding: 23px;
+    text-align: center;
+    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+}
+.search
+{
+    width:30vw;
+    padding: 7px 17px;
+    border: 0.5px solid grey;
+    background:rgb(227, 226, 236) ;
+    border-radius: 5px;
+}
+.homeimg
+{
+    width: 80vw;
+    margin: 12px 0;
+}
+.itemimg1
+{
+width: 15vw;
+margin: 100px 160px;
+padding-left: 100px;
+}
+.itemimg2
+{
+width: 15vw;
+margin: auto;
+padding-bottom: 60px;
+}
+.itemimg3
+{
+width: 15vw;
+margin: 100px 160px;
+padding-left: 30px;
+}

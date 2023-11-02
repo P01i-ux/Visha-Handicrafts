@@ -1,0 +1,28 @@
+
+.justifycenter
+{
+    justify-content: center;
+
+}
+.spacebw
+{
+    justify-content: space-between;
+}
+.bold{
+  font-weight:bolder ;  
+}
+.uppercase
+{
+    text-transform: uppercase;
+}
+
+
+.flex
+{ 
+    display: flex;
+
+}
+.itemcenter
+{
+    align-items: center;
+}
